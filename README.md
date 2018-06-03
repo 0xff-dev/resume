@@ -18,10 +18,10 @@
 
 ## 技能清单
 
-* web开发: __python__/Go
+* web开发: __python/Go__
 * MVT框架: __Django/Flask__
 * Cache: __Redis/memcache__
-* 前端框架: __AngularJS(学习中)__/bootstrap
+* 前端框架: __AngularJS(学习中)/bootstrap__
 * 数据库: __Mysql/Mongodb/Redis__
 * 版本管理: __Git__
 * ubuntu作为日常的操作系统
@@ -48,10 +48,10 @@
 
 * [OnlinePlatForm](https://github.com/stevenshuang/OnlinePlatForm)
 > Django实现在线教育平台
-> 模拟现在mooc在线教育, 主要用到ajax技术, 以及如干Django的轮子
+> 模拟现在mooc在线教育, 主要用到ajax技术, 以及若干Django的轮子
 
 * [Python3-Spider-Actual-Combat](https://github.com/stevenshuang/Python3-Spider-Actual-Combat)
-> 崔庆才出的爬虫书记, 自己实现书中的代码，并且做笔记
+> 崔庆才出的爬虫书, 自己实现书中的代码，并且做笔记
 
 ## 曾获荣誉
 ### 职业技能
