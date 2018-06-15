@@ -33,38 +33,38 @@
 
 ## 个人主要项目
 * [Django个人博客](https://github.com/stevenshuang/DjangoBlog)
-> **S** 自己对只是的渴求, 以及记录自己的学习过程遇到的问题和解决方法
-> **T** 学习Django框架, 学习html, css, js等前端技术.
-> **A** 实现引入DjangoUeditor辅助副文本的编写, 后期将引入xadmin优化后台
-> **R** 博客已经投入使用, 满足自己记录所学知识.
+> **S** 自己对只是的渴求, 以及记录自己的学习过程遇到的问题和解决方法  
+> **T** 学习Django框架, 学习html, css, js等前端技术.  
+> **A** 实现引入DjangoUeditor辅助副文本的编写, 后期将引入xadmin优化后台  
+> **R** 博客已经投入使用, 满足自己记录所学知识.  
 
 
 * [spider](https://github.com/stevenshuang/spider)
-> **S** 满足自己对美女的渴求... 学习爬虫技术, 梦想是爬虫工程师. 以及抓取自己的学次成绩进行分析
-> **T** 学习使用requests, bs4, mongodb, tesseractor验证码识别技术, crontab定时任务
-> **A** 参照requests, bs4文档实现美女爬虫, 根据《mongodb权威指南》学会基本操作, 看博客学会tesseractor, 和crontab
-> **R** 美女爬虫每天定时发送一组套图, 自己现在可以手机整个专业同学的全部信息.
+> **S** 满足自己对美女的渴求... 学习爬虫技术, 梦想是爬虫工程师. 以及抓取自己的学次成绩进行分析  
+> **T** 学习使用requests, bs4, mongodb, tesseractor验证码识别技术, crontab定时任务  
+> **A** 参照requests, bs4文档实现美女爬虫, 根据《mongodb权威指南》学会基本操作, 看博客学会tesseractor, 和crontab  
+> **R** 美女爬虫每天定时发送一组套图, 自己现在可以手机整个专业同学的全部信息.  
 
 
 * [ProxyPool](https://github.com/stevenshuang/ProxyPool)
-> **S** 同一个IP在短时间多次访问同一个网站,存在IP被封的可能. 主要抓取免费ip
-> **T** 学习Flask框架, Python3的异步技术
-> **A** 编写爬虫, 周期性的抓取免费IP, 同时提供周期行的测试, 去掉挂掉的IP
-> **R** 部署在自己的服务器可以通过接口获得免费可用的IP
+> **S** 同一个IP在短时间多次访问同一个网站,存在IP被封的可能. 主要抓取免费ip  
+> **T** 学习Flask框架, Python3的异步技术  
+> **A** 编写爬虫, 周期性的抓取免费IP, 同时提供周期行的测试, 去掉挂掉的IP  
+> **R** 部署在自己的服务器可以通过接口获得免费可用的IP  
 
 
 * [OnlinePlatForm](https://github.com/stevenshuang/OnlinePlatForm)
-> **S** 要做一个Django项目, 完善自己的技术
-> **T** 深入学习Django, 学习使用xadmin, 将来集成在自己的博客, 学习ajax技术, 以及django的若干轮子
-> **A** 参照Django文档,并且看了源代码
-> **R** 还在进行中.....
+> **S** 要做一个Django项目, 完善自己的技术  
+> **T** 深入学习Django, 学习使用xadmin, 将来集成在自己的博客, 学习ajax技术, 以及django的若干轮子  
+> **A** 参照Django文档,并且看了源代码  
+> **R** 还在进行中.....  
 
 
 * [Python3-Spider-Actual-Combat](https://github.com/stevenshuang/Python3-Spider-Actual-Combat)
-> **S** 补充自己的爬虫技术
-> **T** 跟随崔庆才的书籍进行学习
-> **A** 学习书中的技术, 并且完成一些小爬虫.
-> **R** 马上学习完成, 希望可以完善自己
+> **S** 补充自己的爬虫技术  
+> **T** 跟随崔庆才的书籍进行学习  
+> **A** 学习书中的技术, 并且完成一些小爬虫.  
+> **R** 马上学习完成, 希望可以完善自己  
 
 
 ## 曾获荣誉
