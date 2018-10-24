@@ -1,12 +1,12 @@
 ## 张爽个人简历
 
 ### 个人信息
-* 姓名:  &nbsp;&nbsp;__张爽__
+* 姓名/ 性别:  &nbsp;&nbsp;__张爽__/ 男
 * 学校/ 系/ 学历:  &nbsp;&nbsp;__沈阳工业大学/ 计算机科学与技术/ 本科__
 * 手机: &nbsp;&nbsp;__15502456806__
 * QQ: &nbsp;&nbsp;__935809546__
 * 邮箱:  &nbsp;&nbsp;__stevenshuang521@gmail.com__
-* 期望职位: &nbsp;&nbsp;__python web开发/爬虫__
+* 期望职位: &nbsp;&nbsp;__python 后端开发/爬虫__
 * 个人博客:  &nbsp;&nbsp;__http://www.coderzs.top__
 * Github:  &nbsp;&nbsp;__https://github.com/stevenshuang__
 
@@ -18,6 +18,15 @@
 * 数据库: __Mysql/Mongodb/Redis__
 * 版本管理: __Git__
 * ubuntu作为日常的操作系统, 管理一台腾讯云服务器.
+
+### 工作经历
+#### 大连腾泰科技实习(2018年6月-2018年7月)
+使用springBoot+html5混合开发招聘app, 导师教导下，完成mysql12节点数据库集群的搭建, 以及完成Redis缓存配置
+学习了解__jwt__(json web token)的工作方式, 学习mongodb的基本操作, 自己主要负责环境搭建, 以及前端页面的编写.
+
+#### 北京阿凡题(2018年8月-2018年10月)
+1. 负责错题宝小程序项目的前端也页面开发, 自己掌握小程序开发的基本流程, 锻炼团队协作能力.并且对版本迭代开发有了更深认识
+2. 负责题库项目的题目入库, 以及日常处理的小脚本
 
 ### 个人主要项目
 * [Django个人博客](https://github.com/stevenshuang/DjangoBlog)
@@ -50,4 +59,3 @@
 
 ### 致谢
 > 感谢您阅读我的简历. 希望有机会与您共事
-
