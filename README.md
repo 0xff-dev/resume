@@ -6,14 +6,12 @@
 * 手机: &nbsp;&nbsp;__15502456806__
 * QQ: &nbsp;&nbsp;__935809546__
 * 邮箱:  &nbsp;&nbsp;__stevenshuang521@gmail.com__
-* 期望职位: &nbsp;&nbsp;__python后端开发/爬虫/cpp开发__
-* 个人博客:  &nbsp;&nbsp;__http://www.coderzs.top__
+* 期望职位: &nbsp;&nbsp;__python后端开发/Go开发__
 * Github:  &nbsp;&nbsp;__https://github.com/stevenshuang__
 
 ### 技能清单
 * web开发: __python/Go__
 * MVT框架: __Django/Flask__
-* Cache: __Redis/memcache__
 * 前端框架: __bootstrap__
 * 数据库: __Mysql/Mongodb/Redis__
 * 版本管理: __Git__
@@ -21,13 +19,10 @@
 * 编辑器: vim/vscode
 
 ### 工作经历
-#### 大连腾泰科技实习(2018年6月-2018年7月)
-使用springBoot+html5混合开发招聘app, 导师教导下，完成mysql12节点数据库集群的搭建, 以及完成Redis缓存配置
-学习了解jwt(json web token)的工作方式, 学习mongodb的基本操作, 自己主要负责环境搭建, 以及前端页面的编写.
-
-#### 北京阿凡题(2018年8月-至今)
+#### 北京阿凡题(2018年8月-2018年12月)
 1. 负责错题宝小程序项目的前端也页面开发, 自己掌握小程序开发的基本流程, 锻炼团队协作能力.并且对版本迭代开发有了更深认识
-2. 负责题库项目的题目入库, 以及日常处理的小脚本
+2. 负责题库项目的题目入库, 以及数据格式转换脚本
+3. 钢铁侠项目python后端开发, 正常需求.
 
 ### 个人主要项目
 * [Django个人博客](https://github.com/stevenshuang/DjangoBlog)
@@ -42,23 +37,23 @@
 > **A** 根据《mongodb权威指南》学会基本操作, 学习tesseractor, 和crontab定时工具.  
 > **R** 图片爬虫每天定时发送一组套图, 学院现在可以收集整个学院(1000+)的学生信息.  
 
-* [ProxyPool](https://github.com/stevenshuang/ProxyPool)
-> **S** 同一个IP在短时间多次访问同一个网站, 存在IP被封的可能. 主要抓取免费ip.  
-> **T** 整理免费IP网站, 抓取目标在500+.  
-> **A** 周期性的抓取免费IP, 周期行的测试, 去掉挂掉的IP.  
-> **R** 可用IP 100+  
+* [cmap](https://github.com/stevenshuang/cmap)
+> **S** 学习golang并发, 增强自己对项目分析能力, 以及对数据的机构的设计能力
+> **T** 设计出能够并发使用的map结构
+> **A** 学习chanel(进行goroutine之间数据的传输), goroutine, 进行cmap的整体结构的设计.
+> **R** 应用在学习爬虫框架中
 
-* [ChineseChess](https://github.com/stevenshuang/ChineseChess)
-> **S** 学习cpp, 通过使用Qt做中国象棋来理解cpp
-> **T** 第一完成棋子的基本走步, 第二学习人机对战, 第三学习使用cpp进行网络编程, 实现两人分机对战
-> **A** 棋子的基本走步已经完成, 在学习人机博弈部分，准备完成基本简单的人机对战, cpp网络编程还未开始
-> **R** 现在除了车，其他的都可以正常行走. 车不太听话.
-
+* [简单爬虫框架+demo](https://gitlab.com/stevenshuang/gspider)
+> **S** 学习golang, 增强自己对项目整体的认知, 学习冰使用docker
+> **T** 能够根据讲解画出项目的整体结构, 完成项目开发, 并且完成demo
+> **A** 参考《goalng并发编程》《go web编程》, 学习golang提供的使用工具fmt, test, get等.
+> **R** 完成对数据结构的封装, 实现部分功能(downloader, analuzer, pipeline 自己的思考有所欠缺, 对锁,参数条件的控制有待加强.)
+    在调度器方面, 研究源码, 让自己能更好的理解调度器的作用, 以及整个框架整体使用的数据结构. 养成代码测试习惯. 
  
 ### 专业技能
 * 2017.10 [第十届全国大学生网络商务创新应用大赛 辽宁区 特等奖，全国一等奖](images/2017-全国大学生网络商务创新应用大赛.jpg)
 * 2018.06 [第八届全国大学生电子商务“创新、创意及创业”挑战赛辽宁赛区决赛一等奖](images/三创.jpg)
-* 2016.10 [十一届acm程序设计竞赛二等奖](images/校acm.jpg)
+* 2018.06 [“创青春”辽宁省大学生创业大赛 铜奖](images/创青春.jpg)
 
 ### 综合素质
 * 2016.12 [获得国家励志奖学金](images/国家励志奖学金.jpg)
